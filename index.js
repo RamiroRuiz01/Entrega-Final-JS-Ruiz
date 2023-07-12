@@ -17,7 +17,7 @@ alert ("Oprima aceptar para dirigirse a la compra")
 
 //declaro variable para los productos
 
-let productos = prompt ("Seleccione el juego que desea comprar de la tienda: 1) Fifa 23: $8500 - 2) Resident evil 4: $9600 - 3) God of war: $6000 - 4) Star wars jedi: $9200 - 5) Spider-man Miles: $11900 - 6) Horizon 2: $10200 - 7) Need for speed: $7900 - 8) Alan Wake remastered: $8400")
+let productos = prompt ("Seleccione el número del juego que desea comprar de la tienda: 1) Fifa 23: $8500 - 2) Resident evil 4: $9600 - 3) God of war: $6000 - 4) Star wars jedi: $9200 - 5) Spider-man Miles: $11900 - 6) Horizon 2: $10200 - 7) Need for speed: $7900 - 8) Alan Wake remastered: $8400")
 
 
 //declaración variable de precio
