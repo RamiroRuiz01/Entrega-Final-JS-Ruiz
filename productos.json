@@ -1,0 +1,10 @@
+[
+    {"id": 1, "nombre":"Assasins Creed", "precio":10500, "img":"../assets/assasin.webp"},
+    {"id": 1, "nombre":"Battlefield 2042", "precio":11300, "img":"../assets/battlefield.webp"},
+    {"id": 1, "nombre":"Dragon Ball Z Kakarot", "precio":8600, "img":"../assets/dragonball.jpg"},
+    {"id": 1, "nombre":"Farcry Primal", "precio":9200, "img":"../assets/farcry.webp"},
+    {"id": 1, "nombre":"Grand Theft Auto V", "precio":10800, "img":"../assets/gta5.webp"},
+    {"id": 1, "nombre":"Mafia", "precio":9800, "img":"../assets/mafia.jpeg"},
+    {"id": 1, "nombre":"Fallout 76", "precio":11500, "img":"../assets/fallout.webp"},
+    {"id": 1, "nombre":"Watch Dogs", "precio":8800, "img":"../assets/watchdogs.webp"}
+]
